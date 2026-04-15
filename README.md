@@ -1,10 +1,72 @@
-#<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
-<p><a href="https://www.x.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/@mokkapps"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
-<h2>Check My Nuxt Starter Kit</h2>
-  <a href="https://nuxtstarterkit.com" target="_blank" rel="noreferrer nofollow">
-      <img src="https://mokkapps.twic.pics/nuxtstarterkit.com/promo.png" alt="Nuxt Starter Kit" height="500" >
-    </a>
-<h2>Latest Blog Posts</h2>
-  <ul>
-  <li><a href=https://mokkapps.de/vue-tips/infer-props-from-component-map target="_blank" rel="noreferrer nofollow">Vue Tip: Infer Props From Components in a Component Map</a></li><li><a href=https://mokkapps.de/blog/vue-state-management-composables-provide-inject-pinia target="_blank" rel="noreferrer nofollow">Navigating State Management in Vue: Composables, Provide/Inject, and Pinia</a></li><li><a href=https://mokkapps.de/blog/why-i-switched-back-from-vscode-to-intellij-idea target="_blank" rel="noreferrer nofollow">Why I Switched Back From VS Code to IntelliJ IDEA: A Developer's Journey</a></li><li><a href=https://mokkapps.de/blog/connecting-mysql-database-nuxt-drizzle-orm target="_blank" rel="noreferrer nofollow">Connecting a MySQL Database in Nuxt with Drizzle ORM</a></li><li><a href=https://mokkapps.de/vue-tips/accessing-pinia-store-in-nuxt-production-build target="_blank" rel="noreferrer nofollow">Nuxt Tip: Accessing Pinia Store in Production Build</a></li>
-  </ul>
+<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Amr Khaled GitHub README header image">
+
+<h1>Hi 👋, I'm Amr Khaled</h1>
+<h3>Junior Web Developer | PHP Learner</h3>
+
+<p>
+I’m a beginner web developer passionate about building websites and learning backend development using PHP.  
+Currently improving my skills and working on real projects step by step 🚀
+</p>
+
+---
+
+<h2>🌐 Connect with me</h2>
+<p>
+<a href="#"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="mailto:amrelblasy08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+</p>
+
+---
+
+<h2>💻 What I'm Learning</h2>
+<ul>
+  <li>PHP (Core PHP)</li>
+  <li>MySQL Database</li>
+  <li>HTML & CSS</li>
+  <li>JavaScript Basics</li>
+</ul>
+
+---
+
+<h2>🚀 My Goals</h2>
+<ul>
+  <li>Become a professional Backend Developer</li>
+  <li>Build real-world projects</li>
+  <li>Learn Laravel Framework</li>
+</ul>
+
+---
+
+<h2>📌 Projects</h2>
+
+<ul>
+  <li>
+    <strong>🔹 Project 1 - Coming Soon</strong><br>
+    Description: I will add my first PHP project here.<br>
+    Tech: PHP, MySQL
+  </li>
+
+  <li>
+    <strong>🔹 Project 2 - Coming Soon</strong><br>
+    Description: A simple web application using PHP.<br>
+    Tech: PHP, HTML, CSS
+  </li>
+
+</ul>
+
+---
+
+<h2>🔥 GitHub Stats</h2>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=amrelblasy&show_icons=true&theme=radical" />
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrelblasy&layout=compact&theme=radical" />
+</p>
+
+---
+
+<h2>✨ Fun Fact</h2>
+<p>I’m learning step by step and building my future as a backend developer 💻🔥</p>
