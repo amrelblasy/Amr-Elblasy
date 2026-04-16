@@ -16,8 +16,8 @@ Continuously learning, improving problem-solving skills, and working on practica
 
 <h2>🌐 Connect with me</h2>
 <p>
-<a href="#"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.facebook.com/share/18Dcy45Zx5/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/amr-elblasy-71b4b1261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:amrelblasy987@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </p>
 
