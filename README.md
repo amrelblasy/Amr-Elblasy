@@ -41,38 +41,3 @@ amr-elblasy-71b4b1261
   
 </ul>
 
----
-
-<h2>📌 Projects</h2>
-
-<ul>
-  <li>
-    <strong>🔹 Project 1 - Coming Soon</strong><br>
-    Description: I will add my first PHP project here.<br>
-    Tech: PHP, MySQL
-  </li>
-
-  <li>
-    <strong>🔹 Project 2 - Coming Soon</strong><br>
-    Description: A simple web application using PHP.<br>
-    Tech: PHP, HTML, CSS
-  </li>
-
-</ul>
-
----
-
-<h2>🔥 GitHub Stats</h2>
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=amrelblasy&show_icons=true&theme=radical" />
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrelblasy&layout=compact&theme=radical" />
-</p>
-
----
-
-<h2>✨ Fun Fact</h2>
-<p>Passionate about continuous learning and building a strong career in backend development 💻🚀</p>
-
