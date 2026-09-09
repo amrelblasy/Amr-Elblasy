@@ -27,7 +27,7 @@ amr-elblasy-71b4b1261
 
 <h2>💻 Tech Stack</h2>
 <ul>
-  <li>PHP</li>
+  <li>PHP ,Laravel</li>
   <li>MySQL</li>
   <li>HTML & CSS</li>
   <li>JavaScript (Basics)</li>
