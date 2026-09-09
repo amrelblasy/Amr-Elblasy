@@ -6,7 +6,7 @@
 
 <h1>Hi 👋, I'm Amr Khaled</h1>
 <h3>Backend Developer in Progress | PHP Enthusiast</h3>
-
+<h3>🎓 Student at El Shorouk Academy | Computer Science</h3>
 <p>
 Motivated web developer focused on building solid backend systems using PHP and MySQL.  
 Continuously learning, improving problem-solving skills, and working on practical projects to strengthen real-world development experience.
